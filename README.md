@@ -7,7 +7,7 @@
 I'm a developer with a passion for building creative and impactful solutions.
 
 ### Skills:
-<p style="margin: 10px;">
+<p style="margin: 30px;">
   <img src = "https://bl6pap004files.storage.live.com/y4mdvwXsFVJapF7NcFSdzAG7IXWU9sJRJRUnqIidKgy5NPK8Es8q6y1Em6e0_wpAc2ewUpLzoTAQLYYER83tkf5U1bZAMKsUMKjn8GiZEbA5-OBuJYjBq6xIJs-bycXrL0J3VKSTe0ZB70P6-jhrRL3aQ1re1upXp8-CXiZvSvERG6mXyN09vTucriETl-5lbayUkYV4EoKVWizHd0nqgiLBJrnyXMTQhY8PgESQ4PV2BM?encodeFailures=1&width=1302&height=868" height="80">
   <img src="https://bl6pap004files.storage.live.com/y4mo0zE9yUc7gRm2Hlj1qsflLa7SA7sGa_qpxMcpU2ghCGokZmvdn9RSzhiK2l97gXY-RU57lN_Uq_0qF4mi_CEbYGmGhmDvBy9xnxW5ecC3dqvelM_z9t1IdY25k8A9g9KviU1NKcRTZZtJ6SkQTT6J5Y_oTHPrG2O34R2piM2QrhpJ4pZKYb-vwrrJyI4FvAba5WL54KH6f_pBmlUQ8hPJgowhqChEVTepX8As1cZIEM?encodeFailures=1&width=1920&height=557" height="40">
   <img src="https://bl6pap004files.storage.live.com/y4m41nxaZCWPzp62QWRVn2thZT0g1Psx1AuAPWNXEpuGxvZ_ba6iJ35-yHGZUsH52BYZNKRpbKi2HR8ftrKYWwM0KNwFsPxeEbdHANE1IGHXCCnPy19stWUTcdXxMbMZpsWdUJQpM6XyiGBSXRloD4cuO_nZ9_mKbbMMhxvp-bQxXwgRbBI1JX_lqX5n112U0QjnwsaN-9y-oyaXS5vEaetfJMi5Qc5yJALHxz0GtG_mJg?encodeFailures=1&width=953&height=272" height="40">
