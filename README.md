@@ -12,8 +12,7 @@ I'm a developer with a passion for building creative and impactful solutions.
   <br>
   <img src="assets/python.png" height="40">
   <br>
-  <img src="![image](https://github.com/ascoder1109/ascoder1109/assets/100013000/2e446941-03bb-4007-89a6-f6b364f30763)
-" height="40">
+  ![image](https://github.com/ascoder1109/ascoder1109/assets/100013000/2e446941-03bb-4007-89a6-f6b364f30763)
   <br>
   <img src="assets/postgres.png" height="40">
 </p>
