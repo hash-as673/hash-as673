@@ -12,7 +12,7 @@ I'm a developer with a passion for building creative and impactful solutions.
   <br>
   <img src="assets/python.png" height="40">
   <br>
-  !(https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg)
+  ![](https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg)
   <br>
   <img src="assets/postgres.png" height="40">
 </p>
