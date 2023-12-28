@@ -19,5 +19,5 @@ I'm a developer with a passion for building creative and impactful solutions.
 
 ### Connect With Me:
 <p>
-  <img src = "https://bl6pap004files.storage.live.com/y4mooE8EDmutawKv_pTik73_MHtdZAKINht1bESqJe37zH3EtCHNjITIq7_a-yy_Bqh5bl8P-ID9nqin86YiLixBDfeISPPImO3Gwo-50rvDB5p8tdWr8tcZVl-LgutCxSJvvhTXm2D4LLdFI0Vl3w3JhOQYKghLJQ1CuOb2FE2CONwOFaEs-ldoeTT0O4U5KMPg4-rOtAF9dicKARzxocJtLd8jCeiMr5VoLvGWfhklec?encodeFailures=1&width=800&height=707" height="20" href="https://www.linkedin.com/in/aditya-singh-299189231/">
+  <img src = "https://bl6pap004files.storage.live.com/y4mooE8EDmutawKv_pTik73_MHtdZAKINht1bESqJe37zH3EtCHNjITIq7_a-yy_Bqh5bl8P-ID9nqin86YiLixBDfeISPPImO3Gwo-50rvDB5p8tdWr8tcZVl-LgutCxSJvvhTXm2D4LLdFI0Vl3w3JhOQYKghLJQ1CuOb2FE2CONwOFaEs-ldoeTT0O4U5KMPg4-rOtAF9dicKARzxocJtLd8jCeiMr5VoLvGWfhklec?encodeFailures=1&width=800&height=707" height="20" href="https://www.linkedin.com/in/aditya-singh-299189231/"><a href = "https://www.linkedin.com/in/aditya-singh-299189231/" Linkedin>
 </p>
