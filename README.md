@@ -8,7 +8,7 @@ I'm a developer with a passion for building creative and impactful solutions.
 
 ### Skills:
 <p>
-  <img src = "assets/java.png" height="80">
+  <img src = "flutter.png" height="80">
   <br>
   <img src="assets/python.png" height="40">
   <br>
