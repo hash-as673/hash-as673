@@ -5,5 +5,4 @@
 ## Hi there, I'm Aditya! 
 I'm a developer with a passion for building creative and impactful solutions.
 
-### Connect With Me:
 
