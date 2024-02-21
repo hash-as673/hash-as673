@@ -8,6 +8,6 @@ I am a BTech (CSE) student at Siliguri Institute of Technology with a fervent pa
 
 <img src = "https://raw.githubusercontent.com/ascoder1109/ascoder1109/master/java.png" height=60, width=90>
 
-<img src = "https://raw.githubusercontent.com/ascoder1109/ascoder1109/master/flutter.png" height=60, width=90>
+<img src = "https://raw.githubusercontent.com/ascoder1109/ascoder1109/master/flutter.png" height=30, width=90>
 
 
