@@ -6,9 +6,9 @@
 
 I am a BTech (CSE) student at Siliguri Institute of Technology with a fervent passion for mobile app development. My skills include:
 
-<img src = "https://raw.githubusercontent.com/ascoder1109/ascoder1109/master/java.png" height=60, width=90><img src = "https://raw.githubusercontent.com/ascoder1109/ascoder1109/master/flutter.png" height=25, width=90>
-<img src = "https://raw.githubusercontent.com/ascoder1109/ascoder1109/master/python.png" height=25, width=90>
-<img src = "https://raw.githubusercontent.com/ascoder1109/ascoder1109/master/postgres.png" height=20, width=90>
-
-
+<ul>
+  <li>Java</li>
+<li>Python</li>
+<li>Flutter</li>
+</ul>
 
