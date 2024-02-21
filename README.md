@@ -6,6 +6,6 @@
 
 I am a BTech (CSE) student at Siliguri Institute of Technology with a fervent passion for mobile app development. My skills include:
 
-<img src = "blob:https://photos.onedrive.com/5751f967-3cbc-4f78-b2b0-ce1c079e6616">
+<img src = "https://raw.githubusercontent.com/ascoder1109/ascoder1109/master/java.png">
 
 
