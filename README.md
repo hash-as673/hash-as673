@@ -4,11 +4,12 @@
 
 ## Hi there, I'm Aditya! 👋 
 
-I am a BTech (CSE) student at Siliguri Institute of Technology with a fervent passion for mobile app development. My skills include:
+I am a BTech (CSE) student at Siliguri Institute of Technology with a fervent passion for development. My interest include:
 
 <ul>
   <li>Java</li>
 <li>Python</li>
-<li>Flutter</li>
+<li>Android Development</li>
+  <li>Maching Learning using PyTorch</li>
 </ul>
 
