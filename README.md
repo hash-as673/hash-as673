@@ -10,6 +10,6 @@ I am a BTech (CSE) student at Siliguri Institute of Technology with a fervent pa
   <li>Java</li>
 <li>Python</li>
 <li>Android Development</li>
-  <li>Maching Learning using PyTorch</li>
+  <li>Maching Learning</li>
 </ul>
 
