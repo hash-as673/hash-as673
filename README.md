@@ -9,7 +9,8 @@ I am a BTech (CSE) student at Siliguri Institute of Technology with a fervent pa
 <ul>
   <li>Java</li>
 <li>Python</li>
-<li>Android App Development (Kotlin)</li>
+<li>Flutter App Development</li>
+<li>Node.js</li>
   <li>Maching Learning</li>
 </ul>
 
