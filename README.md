@@ -11,6 +11,5 @@ I am a BTech (CSE) student at Siliguri Institute of Technology with a fervent pa
 <li>Python</li>
 <li>Flutter App Development</li>
 <li>Node.js</li>
-  <li>Maching Learning</li>
 </ul>
 
