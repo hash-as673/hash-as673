@@ -31,6 +31,7 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Waving Hand Medium Skin Tone" width="30" height="30" /> My Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ascoder1109&theme=dark&border_radius=20)](https://git.io/streak-stats)
+![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=ascoder1109&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ascoder1109&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
