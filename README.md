@@ -10,6 +10,13 @@
 <img src="https://komarev.com/ghpvc/?username=ascoder1109&style=flat-square&color=blue" alt=""/>
 </div>
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me:
+ - 💻 Aspiring Software Engineer
+ - 📱Passionate for Mobile Application Development
+ - 🔭 Currently learning Java Backend
+
+
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium%20Skin%20Tone.png" alt="Technologist Medium Skin Tone" width="25" height="25" /> Language And Tools
 
 <div>
@@ -23,6 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Waving Hand Medium Skin Tone" width="30" height="30" /> My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=ascoder1109&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ascoder1109&theme=dark&border_radius=20)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ascoder1109&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
