@@ -21,10 +21,11 @@
 <div>
     <img src = "assets\java-original-wordmark.svg", width = 60, height = 60, alt = "Java">
     <img src = "assets\python-original-wordmark.svg", width = 60, height = 60, alt = "Python">
-    <img src = "assets\flutter-original.svg", width = 60, height = 60, alt = "Flutter">
+    <img src = "assets/images/flutter-original.svg", width = 60, height = 60, alt = "Flutter">
     <img src = "assets\firebase-original.svg", width = 60, height = 60, alt = "Firebase">
     <img src = "assets\kotlin-original.svg", width = 60, height = 60, alt = "Kotlin">
     <img src = "assets\git-original.svg", width = 60, height = 60, alt = "Git">
+</div>
 
 ---
 <div>
@@ -33,6 +34,6 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ascoder1109&theme=dark&border_radius=18&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ascoder1109)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ascoder1109&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
