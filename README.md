@@ -1,39 +1,28 @@
-<h1>
-  Hi There! I am Aditya Singh
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+# Hi! I am Aditya Singh <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="30" height="30" />
 
-<div id = "badges">
-    <a href="https://www.linkedin.com/in/aditya-singh-299189231/">
-    <img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" , alt="Linkedin Badge"/>
-    </a>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/aditya-singh-299189231/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
+<div>
 <img src="https://komarev.com/ghpvc/?username=ascoder1109&style=flat-square&color=blue" alt=""/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width = 400, height = 300>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="25" height="25" /><b>Languages And Tools</b>
-
-
-<div>
-    <img src = "assets\java-original-wordmark.svg", width = 60, height = 60, alt = "Java">
-    <img src = "assets\python-original-wordmark.svg", width = 60, height = 60, alt = "Python">
-    <img src = "assets/images/flutter-original.svg", width = 60, height = 60, alt = "Flutter">
-    <img src = "assets\firebase-original.svg", width = 60, height = 60, alt = "Firebase">
-    <img src = "assets\kotlin-original.svg", width = 60, height = 60, alt = "Kotlin">
-    <img src = "assets\git-original.svg", width = 60, height = 60, alt = "Git">
 </div>
 
----
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium%20Skin%20Tone.png" alt="Technologist Medium Skin Tone" width="25" height="25" /> Language And Tools
+
 <div>
- <img src = "https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png", width = 20, height = 20, alt = "Fire animated emoji"><b>My Stats:</b>
-</div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ascoder1109)](https://git.io/streak-stats)
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Waving Hand Medium Skin Tone" width="30" height="30" /> My Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=ascoder1109&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ascoder1109&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
