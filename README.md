@@ -11,9 +11,9 @@
 </div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me:
- - 💻 Aspiring Software Engineer
- - 📱Passionate for Mobile Application Development
- - 🔭 Currently learning Java Backend
+ -  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="20" height="20" /> Aspiring Software Engineer
+ - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="20" height="20" /> Passionate for Mobile Application Development
+ - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="20" height="20" /> Currently learning Java Backend
 
 
 
