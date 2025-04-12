@@ -38,9 +38,5 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Waving Hand Medium Skin Tone" width="30" height="30" /> My Stats:
 
-![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=ascoder1109&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ascoder1109&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
