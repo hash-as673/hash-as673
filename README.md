@@ -1,10 +1,10 @@
 <div align="left">
-  <h1 style="display: flex; align-items: center; gap: 10px;">
+  <h1 align="left">
     <picture>
       <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
       <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32">
     </picture>
-    <span>Hi There! I am Aditya Singh</span>
+    Hi There! I am Aditya Singh
   </h1>
 </div>
 
@@ -18,22 +18,14 @@ I aim to be a backend developer focused on building scalable systems and managin
 
 <br>
 
-<div align="left">
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="30" height="30" style="vertical-align: middle;">
-  </picture>
-  <span style="font-size: 1.8em; font-weight: 800; vertical-align: middle; margin-left: 10px; letter-spacing: -0.5px;">Technologies & Tools</span>
-</div>
-
-<br>
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="35" vertical-align="middle"> Technologies & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="50" alt="go" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="postgres" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="vscode" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="git" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="50" alt="go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="postgres" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="50" alt="github" />
 </p>       
 
@@ -41,15 +33,7 @@ I aim to be a backend developer focused on building scalable systems and managin
 
 <br>
 
-<div align="left">
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="30" style="vertical-align: middle;">
-  </picture>
-  <span style="font-size: 1.8em; font-weight: 800; vertical-align: middle; margin-left: 10px; letter-spacing: -0.5px;">Current Learning Path</span>
-</div>
-
-<br>
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="35" vertical-align="middle"> Current Learning Path
 
 - **Languages:** Actively strengthening my proficiency in Golang and Java.
 - **Backend & Infrastructure:** Deepening my knowledge of backend system design, cloud infrastructure, and System Design.
@@ -57,15 +41,7 @@ I aim to be a backend developer focused on building scalable systems and managin
 
 <br>
 
-<div align="left">
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="30" height="30" style="vertical-align: middle;">
-  </picture>
-  <span style="font-size: 1.8em; font-weight: 800; vertical-align: middle; margin-left: 10px; letter-spacing: -0.5px;">Technical Interest</span>
-</div>
-
-<br>
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" width="35" vertical-align="middle"> Technical Interest
 
 - **Backend Development:** Building robust and scalable server-side logic.
 - **Database Management:** Learning DBMS with PostgreSQL, including DDL/DML and database optimization.
