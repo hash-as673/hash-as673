@@ -35,7 +35,7 @@ I aim to be a backend developer focused on building scalable systems and managin
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="20" vertical-align="middle"> Current Learning Path
 
-- **Languages:** Actively strengthening my proficiency in Golang and Java.
+- **Languages:** Actively strengthening my proficiency in Go and Java.
 - **Backend & Infrastructure:** Deepening my knowledge of backend system design, cloud infrastructure, and System Design.
 - **Databases:** Currently learning **SQL Server** and DBMS fundamentals.
 
