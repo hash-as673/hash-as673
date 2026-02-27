@@ -1,22 +1,9 @@
-# Hi! I am Aditya Singh <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="30" height="30" />
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/aditya-singh-299189231/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div align="left">
+  <h1>
+    <picture>
+      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="40" height="40">
+    </picture>
+    <img src="https://readme-typing-svg.demolab.com?font=Mulish&weight=700&size=30&duration=1&pause=1000&color=F7F7F7&width=435&lines=Hi+there!+I+am+Aditya+Singh!&repeat=false" alt="Static Name" />
+  </h1>
 </div>
-
-<div>
-<img src="https://komarev.com/ghpvc/?username=ascoder1109&style=flat-square&color=blue" alt=""/>
-</div>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me:
- -  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="20" height="20" /> Software Engineer
- - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="20" height="20" /> Proficient in Backend Development
-
-
-
-
-
-
-
