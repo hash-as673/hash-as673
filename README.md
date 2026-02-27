@@ -17,13 +17,15 @@ I aim to be a backend developer focused on building scalable systems and managin
 </p>
 
 <br>
-<div align="left" style="display: flex; align-items: center; gap: 10px;">
+
+<div style="display: flex; align-items: center; gap: 10px;">
   <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="25" height="25">
-</picture>
-  <h3 style="margin: 0;">Technologies & Tools</h3>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="25" height="25">
+  </picture>
+  <h3 style="margin: 0; padding: 0;">Technologies & Tools</h3>
 </div>
+
 <br>
 
 <p align="left">
@@ -36,14 +38,17 @@ I aim to be a backend developer focused on building scalable systems and managin
 </p>       
 
 ---
+
 <br>
-<div align="left" style="display: flex; align-items: center; gap: 10px;">
+
+<div style="display: flex; align-items: center; gap: 10px;">
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="25" height="25">
   </picture>
-  <h3 style="margin: 0;">Current Learning Path</h3>
+  <h3 style="margin: 0; padding: 0;">Current Learning Path</h3>
 </div>
+
 <br>
 
 - **Languages:** Actively strengthening my proficiency in Golang and Java.
@@ -51,17 +56,18 @@ I aim to be a backend developer focused on building scalable systems and managin
 - **Databases:** Currently learning **PostgreSQL** and DBMS fundamentals.
 
 <br>
-<div align="left" style="display: flex; align-items: center; gap: 10px;">
+
+<div style="display: flex; align-items: center; gap: 10px;">
   <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="25" height="25">
-</picture>
-  <h3 style="margin: 0;">Technical Interest</h3>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="25" height="25">
+  </picture>
+  <h3 style="margin: 0; padding: 0;">Technical Interest</h3>
 </div>
+
 <br>
 
 - **Backend Development:** Building robust and scalable server-side logic.
 - **Database Management:** Learning DBMS with PostgreSQL, including DDL/DML and database optimization.
 - **Cloud Computing:** Interested in modern infrastructure and deployment workflows.
 - **Automation:** Interested in Automation of repetitive tasks.
-
