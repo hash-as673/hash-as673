@@ -1,3 +1,21 @@
+<div align="left">
+  <h1 style="display: flex; align-items: center; gap: 10px;">
+    <picture>
+      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32">
+    </picture>
+    <span>Hi There! I am Aditya Singh</span>
+  </h1>
+</div>
+
+I aim to be a backend developer focused on building scalable systems and managing robust data architectures. Currently, I am expanding my technical stack and exploring cloud-native technologies.
+
+<p align="left">
+<a href="https://www.linkedin.com/in/aditya-singh-299189231/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</p>
+
 <br>
 
 <div align="left">
@@ -48,3 +66,8 @@
 </div>
 
 <br>
+
+- **Backend Development:** Building robust and scalable server-side logic.
+- **Database Management:** Learning DBMS with PostgreSQL, including DDL/DML and database optimization.
+- **Cloud Computing:** Interested in modern infrastructure and deployment workflows.
+- **Automation:** Interested in Automation of repetitive tasks.
