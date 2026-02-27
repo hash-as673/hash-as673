@@ -1,9 +1,40 @@
 <div align="left">
-  <h1>
+  <h1 style="display: flex; align-items: center; gap: 10px;">
     <picture>
       <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="40" height="40">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32">
     </picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Mulish&weight=700&size=30&duration=1&pause=1000&color=F7F7F7&width=435&lines=Hi+there!+I+am+Aditya+Singh!&repeat=false" alt="Static Name" />
+    <span>Hi There! I am Aditya Singh</span>
   </h1>
 </div>
+I aim to be a backend developer focused on building scalable systems and managing robust data architectures. Currently, I am expanding my technical stack and exploring cloud-native technologies.
+
+### 🛠️ Technologies & Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height=60 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height=60 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=60 width=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height=60 width=70 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height=60/>
+                   
+                 
+
+---
+
+### Current Learning Path
+
+- **Languages:** Actively strengthening my proficiency in Golang and Java.
+- **Backend & Infrastructure:** Deepening my knowledge of backend system design, cloud infrastructure, and System Design.
+- **Databases:** Currently learning **MS SQL Server** and DBMS fundamentals.
+
+### Technical Interest
+
+- **Backend Development:** Building robust and scalable server-side logic.
+- **Database Management:** Learning DBMS with Microsoft SQL Server, including DDL/DML and database optimization.
+- **Cloud Computing:** Interested in modern infrastructure and deployment workflows.
+- **Automation:** Interested in Automation of repetitive tasks.
+
+---
+
+### 📊 GitHub Stats
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=dark&hide_border=true)
