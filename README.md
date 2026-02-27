@@ -65,7 +65,3 @@ I aim to be a backend developer focused on building scalable systems and managin
 - **Cloud Computing:** Interested in modern infrastructure and deployment workflows.
 - **Automation:** Interested in Automation of repetitive tasks.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hash-as673&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-as673&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</p>
