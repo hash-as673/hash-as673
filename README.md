@@ -18,7 +18,7 @@ I aim to be a backend developer focused on building scalable systems and managin
 
 <br>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="35" vertical-align="middle"> Technologies & Tools
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="20" vertical-align="middle"> Technologies & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java" />
@@ -33,7 +33,7 @@ I aim to be a backend developer focused on building scalable systems and managin
 
 <br>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="35" vertical-align="middle"> Current Learning Path
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="20" vertical-align="middle"> Current Learning Path
 
 - **Languages:** Actively strengthening my proficiency in Golang and Java.
 - **Backend & Infrastructure:** Deepening my knowledge of backend system design, cloud infrastructure, and System Design.
@@ -41,7 +41,7 @@ I aim to be a backend developer focused on building scalable systems and managin
 
 <br>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" width="35" vertical-align="middle"> Technical Interest
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" width="20" vertical-align="middle"> Technical Interest
 
 - **Backend Development:** Building robust and scalable server-side logic.
 - **Database Management:** Learning DBMS with PostgreSQL, including DDL/DML and database optimization.
