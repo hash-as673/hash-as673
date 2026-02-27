@@ -16,7 +16,7 @@ I aim to be a backend developer focused on building scalable systems and managin
 </a>
 </p>
 
-<br>
+
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="20" vertical-align="middle"> Technologies & Tools
 
@@ -31,7 +31,7 @@ I aim to be a backend developer focused on building scalable systems and managin
 
 ---
 
-<br>
+
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="20" vertical-align="middle"> Current Learning Path
 
@@ -39,7 +39,7 @@ I aim to be a backend developer focused on building scalable systems and managin
 - **Backend & Infrastructure:** Deepening my knowledge of backend system design, cloud infrastructure, and System Design.
 - **Databases:** Currently learning **PostgreSQL** and DBMS fundamentals.
 
-<br>
+
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" width="20" vertical-align="middle"> Technical Interest
 
