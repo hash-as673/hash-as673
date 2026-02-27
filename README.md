@@ -1,29 +1,11 @@
-<div align="left">
-  <h1 style="display: flex; align-items: center; gap: 10px;">
-    <picture>
-      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32">
-    </picture>
-    <span>Hi There! I am Aditya Singh</span>
-  </h1>
-</div>
-
-I aim to be a backend developer focused on building scalable systems and managing robust data architectures. Currently, I am expanding my technical stack and exploring cloud-native technologies.
-
-<p align="left">
-<a href="https://www.linkedin.com/in/aditya-singh-299189231/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</p>
-
 <br>
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div align="left">
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="25" height="25">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="25" height="25" style="vertical-align: middle;">
   </picture>
-  <h3 style="margin: 0; padding: 0;">Technologies & Tools</h3>
+  <span style="font-size: 1.25em; font-weight: bold; vertical-align: middle; margin-left: 8px;">Technologies & Tools</span>
 </div>
 
 <br>
@@ -41,12 +23,12 @@ I aim to be a backend developer focused on building scalable systems and managin
 
 <br>
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div align="left">
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="25" height="25">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="25" height="25" style="vertical-align: middle;">
   </picture>
-  <h3 style="margin: 0; padding: 0;">Current Learning Path</h3>
+  <span style="font-size: 1.25em; font-weight: bold; vertical-align: middle; margin-left: 8px;">Current Learning Path</span>
 </div>
 
 <br>
@@ -57,17 +39,12 @@ I aim to be a backend developer focused on building scalable systems and managin
 
 <br>
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div align="left">
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="25" height="25">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="25" height="25" style="vertical-align: middle;">
   </picture>
-  <h3 style="margin: 0; padding: 0;">Technical Interest</h3>
+  <span style="font-size: 1.25em; font-weight: bold; vertical-align: middle; margin-left: 8px;">Technical Interest</span>
 </div>
 
 <br>
-
-- **Backend Development:** Building robust and scalable server-side logic.
-- **Database Management:** Learning DBMS with PostgreSQL, including DDL/DML and database optimization.
-- **Cloud Computing:** Interested in modern infrastructure and deployment workflows.
-- **Automation:** Interested in Automation of repetitive tasks.
