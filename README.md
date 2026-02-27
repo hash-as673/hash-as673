@@ -21,9 +21,9 @@ I aim to be a backend developer focused on building scalable systems and managin
 <div align="left">
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="25" height="25" style="vertical-align: middle;">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="30" height="30" style="vertical-align: middle;">
   </picture>
-  <span style="font-size: 1.25em; font-weight: bold; vertical-align: middle; margin-left: 8px;">Technologies & Tools</span>
+  <span style="font-size: 1.8em; font-weight: 800; vertical-align: middle; margin-left: 10px; letter-spacing: -0.5px;">Technologies & Tools</span>
 </div>
 
 <br>
@@ -44,9 +44,9 @@ I aim to be a backend developer focused on building scalable systems and managin
 <div align="left">
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="25" height="25" style="vertical-align: middle;">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="30" style="vertical-align: middle;">
   </picture>
-  <span style="font-size: 1.25em; font-weight: bold; vertical-align: middle; margin-left: 8px;">Current Learning Path</span>
+  <span style="font-size: 1.8em; font-weight: 800; vertical-align: middle; margin-left: 10px; letter-spacing: -0.5px;">Current Learning Path</span>
 </div>
 
 <br>
@@ -60,9 +60,9 @@ I aim to be a backend developer focused on building scalable systems and managin
 <div align="left">
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="25" height="25" style="vertical-align: middle;">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="30" height="30" style="vertical-align: middle;">
   </picture>
-  <span style="font-size: 1.25em; font-weight: bold; vertical-align: middle; margin-left: 8px;">Technical Interest</span>
+  <span style="font-size: 1.8em; font-weight: 800; vertical-align: middle; margin-left: 10px; letter-spacing: -0.5px;">Technical Interest</span>
 </div>
 
 <br>
