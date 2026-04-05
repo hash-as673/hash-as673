@@ -22,9 +22,7 @@ I aim to be a backend developer focused on building scalable systems and managin
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="50" alt="go" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="PostgresSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="50" alt="MS SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="50" alt="github" />
 </p>       
@@ -35,15 +33,15 @@ I aim to be a backend developer focused on building scalable systems and managin
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="20" vertical-align="middle"> Current Learning Path
 
-- **Languages:** Actively strengthening my proficiency in Go and Java.
-- **Backend & Infrastructure:** Deepening my knowledge of backend system design, cloud infrastructure, and System Design.
-- **Databases:** Currently learning **PostgreSQL** and DBMS fundamentals.
+- **Languages:** Actively strengthening my proficiency in Java.
+- **Backend & Infrastructure:** Deepening my knowledge of backend, cloud infrastructure, and System Design.
+- **Databases:** Currently learning **MSSQL Server** and DBMS fundamentals.
 
 
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" width="20" vertical-align="middle"> Technical Interest
 
 - **Backend Development:** Building robust and scalable server-side logic.
-- **Database Management:** Learning DBMS with PostgreSQL, including DDL/DML and database optimization.
+- **Database Management:** Learning DBMS with MS SQL Server, including DDL/DML and database optimization.
 - **Cloud Computing:** Interested in modern infrastructure and deployment workflows.
 - **Automation:** Interested in Automation of repetitive tasks.
