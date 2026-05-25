@@ -8,7 +8,7 @@
   </h1>
 </div>
 
-I'm a backend developer focused on building scalable cloud-native systems. Currently specializing in C# and .NET on Azure, for cloud infrastructure and database optimization.
+I'm a backend developer focused on building scalable cloud-native systems and designing robust data architectures. Currently specializing in Java and Spring Boot on Azure.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-singh-299189231/" target="blank">
@@ -34,8 +34,8 @@ Validated expertise in cloud concepts, Azure architecture, and cloud management 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="20" vertical-align="middle"> Technologies & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="50" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="50" alt="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="VSCode" />
@@ -47,8 +47,8 @@ Validated expertise in cloud concepts, Azure architecture, and cloud management 
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="20" vertical-align="middle"> Current Learning Path
 
-- **Languages:** Mastering C# for enterprise backend development and cloud-native applications.
-- **Backend & Cloud:** Building scalable backend systems on Azure, deepening knowledge of cloud-native architecture and infrastructure-as-code.
+- **Languages:** Mastering Java for enterprise backend development and cloud-native applications.
+- **Backend & Cloud:** Building scalable backend systems with Spring Boot on Azure, deepening knowledge of cloud-native architecture and infrastructure-as-code.
 - **Databases:** Specializing in SQL Server, DBMS fundamentals, query optimization, and cloud database management.
 - **Azure Certification Track:** Recently certified in AZ-900; preparing for AZ-104 (Azure Administrator).
 
@@ -56,23 +56,18 @@ Validated expertise in cloud concepts, Azure architecture, and cloud management 
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" width="20" vertical-align="middle"> Technical Interest
 
-- **Cloud-Native Backend Development:** Building robust, scalable server-side logic on Azure using C# and .NET.
+- **Cloud-Native Backend Development:** Building robust, scalable server-side logic on Azure using Java and Spring Boot.
 - **Database Architecture:** Designing efficient SQL Server schemas, query optimization, and cloud database management.
 - **Cloud Infrastructure:** Modern deployment workflows, infrastructure optimization, and cost management on Azure.
 - **System Design:** Architecting high-performance, resilient systems that scale in the cloud.
-- **DevOps & Automation:** Interested in CI/CD pipelines and automation of deployment workflows.
 
 ---
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="20" vertical-align="middle"> What I'm Building
 
-I'm focused on becoming an expert in cloud-native backend architecture. My journey is rooted in:
-- **Deep expertise in C# and .NET frameworks**
+I'm focused on becoming an expert in cloud-native backend architecture:
+- **Deep expertise in Java and Spring Boot frameworks**
 - **Azure cloud platform proficiency**
 - **Enterprise-grade SQL Server and database design**
 - **Scalable system architecture and cloud-native patterns**
-
-I believe in writing clean, maintainable code and leveraging cloud technologies to solve real-world problems efficiently.
-
-
 
